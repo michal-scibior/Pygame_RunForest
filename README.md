@@ -10,7 +10,7 @@ This task features:
 - **the gameplay**
 
 ## How to play
-- |SPACE| or |UP| arrow key to jump
+- |SPACE| or |W| key to jump
 - Your objective is to avoid scary MS Paint blobs 
 - For every monster you jump over you get a point
 - Get hit 3 times and you die
